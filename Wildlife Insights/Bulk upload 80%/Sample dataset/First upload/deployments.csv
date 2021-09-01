@@ -1,0 +1,4 @@
+project_id,deployment_id,placename,longitude,latitude,start_date,end_date,bait_type,bait_description,feature_type,feature_type_methodology,camera_id,quiet_period,camera_functioning,sensor_height,height_other,sensor_orientation,orientation_other,plot_treatment,detection_distance,subproject_name,subproject_design,event_name,event_description,event_type,recorded_by
+2003086,100 04/23/2019,100,108.24333608,14.97148671,2019-04-23 00:00:00,2019-08-26 00:00:00,None,,None,,2016371,0,Camera Functioning,Other,23 cm,Unknown,,,,Phase 01,From 27/04/2019 to 20/09/2019,,,,
+2003086,237 04/21/2019,237,108.33033337,14.78874186,2019-04-21 00:00:00,2019-08-09 00:00:00,None,,None,,2016460,0,Unknown Failure,Knee height,,Parallel,,,,Phase 01,From 27/04/2019 to 20/09/2019,,,,
+2003086,236 04/20/2019,236,108.31006198,14.79065599,2019-04-20 00:00:00,2019-09-08 00:00:00,None,,None,,2016427,0,Camera Hardware Failure,Knee height,,Parallel,,,,Phase 01,From 27/04/2019 to 20/09/2019,,,,

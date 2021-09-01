@@ -1,0 +1,133 @@
+id,class,order,family,genus,species,authority,commonNameEnglish,taxonomyType,uniqueIdentifier,FFI_species_name
+2002045,Mammalia,Primates,Hominidae,Homo,sapiens,"Linnaeus, 1758",Human,biological,990ae9dd-7a59-4344-afcb-1b7b21368000,Human
+2002596,Mammalia,Carnivora,Mustelidae,Martes,flavigula,"Boddaert, 1785",Yellow-throated Marten,biological,8d7dc39f-0fea-42fd-bc07-e95fde4bab06,Yellow-throated Marten
+2012904,Aves,Passeriformes,Corvidae,Cissa,hypoleuca,"Salvadori & Giglioli, 1885",Indochinese Green Magpie,biological,d12f88ab-d7ce-4740-b111-5af70c352b63,Yellow-breasted Magpie
+2021113,Aves,,,,,,Bird,biological,b1352069-a39c-4a84-a949-60044271c0c1,Bird
+2003794,Mammalia,Carnivora,Viverridae,Paguma,larvata,"C.E.H. Smith, 1827",Masked Palm Civet,biological,05a177f4-8da4-400f-ad72-0a8437a1eea6,Masked Palm Civet
+2015365,Aves,Passeriformes,Muscicapidae,Myophonus,caeruleus,"Scopoli, 1786",Blue Whistling-thrush,biological,65508ff3-d53d-4341-aeb9-0ac3b72011da,Blue Whistling-thrush
+2012715,Aves,Passeriformes,Dicruridae,Dicrurus,annectens,"Hodgson, 1836",Crow-billed Drongo,biological,83bdb4cf-566f-489f-9a6c-877f0138305a,Crow-billed Drongo
+2006500,Aves,Columbiformes,Columbidae,Chalcophaps,indica,"Linnaeus, 1758",Common Emerald Dove,biological,e6e39b90-f11c-415b-a01e-5beb550de1bb,Emerald Dove
+2012886,Aves,Passeriformes,Corvidae,Crypsirina,temia,"Daudin, 1800",Racquet-tailed Treepie,biological,029c8784-8b87-4adf-aab4-e1d93cd29b10,Racket-tailed Treepie
+2009699,Aves,Piciformes,Picidae,Micropternus,brachyurus,"Vieillot, 1818",Rufous Woodpecker,biological,82aaae23-ea59-4f12-bdbb-79f0e067ae72,Rufous Woodpecker
+2008596,Aves,Strigiformes,Strigidae,Glaucidium,cuculoides,"Vigors, 1831",Asian Barred Owlet,biological,4c73f9a9-63fc-463f-a7a4-dae475074bc4,Asian Barred Owlet
+2021548,Mammalia,Carnivora,Canidae,Canis,familiaris,,Domestic Dog,biological,3d80f1d6-b1df-4966-9ff4-94053c7a902a,Domestic Dog
+2013885,Aves,Passeriformes,Pycnonotidae,Alophoixus,ochraceus,"Moore, 1854",,biological,624c99ad-48fc-48d0-b534-c02c5bef2889,Ochraceous Bulbul
+2004298,Mammalia,Carnivora,Felidae,Prionailurus,bengalensis,"Kerr, 1792",Leopard Cat,biological,6f5cfe6e-4d2f-4a39-b7eb-cffe6aef7de1,Leopard Cat
+2021251,Mammalia,Rodentia,Muridae,,,,Muridae Family,biological,9880b662-dc21-453b-aa2f-dd97338f623b,Murid
+2019996,Mammalia,Carnivora,Mustelidae,Melogale,,,Melogale Species,biological,a6bdb282-2d0c-4f63-866b-e60ffa410d19,Ferret-badger
+2007396,Aves,Cuculiformes,Cuculidae,Phaenicophaeus,tristis,"Lesson, 1830",Green-billed Malkoha,biological,c2bcb50c-2bc0-4565-9d31-78ea6498075d,Green-billed Malkoha
+2012885,Aves,Passeriformes,Corvidae,Temnurus,temnurus,"Temminck, 1825",Ratchet-tailed Treepie,biological,1b2a3e16-faf8-46b1-9e40-83f7d0f3bfb6,Ratchet-tailed Treepie
+2005516,Mammalia,Scandentia,Tupaiidae,Tupaia,belangeri,"Wagner, 1841",Northern Treeshrew,biological,9847f2cd-5cbd-463d-af48-d0bc6bba8272,Northern Treeshrew
+2014516,Aves,Passeriformes,Leiotrichidae,Garrulax,monileger,"Riley, 1930",Lesser Necklaced Laughingthrush,biological,cfd634c7-a7b2-4fc2-b4c5-698aec23df3c,Lesser Necklaced Laughingthrush
+2021559,Insecta,Lepidoptera,,,,,Butterflies and Moths,biological,4a7126ec-2b0b-426d-bafd-356219eb487a,Moth
+2001928,Mammalia,Carnivora,Herpestidae,Herpestes,urva,"Hodgson, 1836",Crab-eating Mongoose,biological,18188307-3bda-4990-84eb-893863202d22,Crab-eating Mongoose
+2010428,Aves,Passeriformes,Pittidae,Hydrornis,oatesi,"Hume, 1873",Rusty-naped Pitta,biological,a808a3bc-1c36-42ed-8ffd-604ee2dedc6f,Rusty-naped Pitta
+2014535,Aves,Passeriformes,Leiotrichidae,Garrulax,vassali,"Ogilvie-Grant, 1906",White-cheeked Laughingthrush,biological,885a2c01-de9f-4a4e-b4c6-0d9f3c030985,White-cheeked Laughingthrush
+2012701,Aves,Passeriformes,Rhipiduridae,Rhipidura,albicollis,"Vieillot, 1818",,biological,0f3f4083-15ca-4a13-96e2-32a5170e3a23,White-throated Fantail
+2001398,Mammalia,Rodentia,Sciuridae,Dremomys,rufigenis,"Blanford, 1878",Red-cheeked Squirrel,biological,ac068717-6079-4aec-a5ab-99e8d14da40b,Asian Red-cheeked Squirrel
+2000328,Mammalia,Rodentia,Hystricidae,Atherurus,macrourus,"Linnaeus, 1758",Asiatic Brush-tailed Porcupine,biological,60d52271-6958-4cc9-be30-57c83d1dc79b,Asiatic Brush-tailed Porcupine
+2002468,Mammalia,Primates,Cercopithecidae,Macaca,arctoides,"I. Geoffroy, 1831",Stump-tailed Macaque,biological,225c3eb1-eb87-4e93-bfaf-bbcb5ea1585c,Stump-tailed Macaque
+2021411,Mammalia,Chiroptera,,,,,Bat,biological,a45906ce-5938-433a-bc82-4d0e60d2ebab,Bat
+2015211,Aves,Passeriformes,Muscicapidae,Niltava,grandis,"Blyth, 1842",Large Niltava,biological,26c274b4-7511-43fd-94ad-813c262eb8c6,Large Niltava
+2014346,Aves,Passeriformes,Timaliidae,Erythrogenys,hypoleucos,"Blyth, 1844",Large Scimitar-babbler,biological,0dfcde34-ab07-4f03-9ad1-682adc4326fc,Large Scimitar-babbler
+2010430,Aves,Passeriformes,Pittidae,Hydrornis,soror,"Wardlaw-Ramsay, 1881",Blue-rumped Pitta,biological,c7939461-118f-4b63-8ae4-38071dbcf892,Blue-rumped Pitta
+2006031,Aves,Galliformes,Phasianidae,Lophura,nycthemera,"Linnaeus, 1758",Silver Pheasant,biological,97efc2f7-1480-44a8-bade-936e91789e98,Silver Pheasant
+2014519,Aves,Passeriformes,Leiotrichidae,Garrulax,milleti,"Robinson & Kloss, 1919",Black-hooded Laughingthrush,biological,068b5c86-d844-4182-866f-75cf6eae4ae7,Black-hooded Laughingthrush
+2021251,Mammalia,Rodentia,Muridae,,,,Muridae Family,biological,9880b662-dc21-453b-aa2f-dd97338f623b,Leopoldamys
+2003818,Mammalia,Carnivora,Viverridae,Paradoxurus,hermaphroditus,"Pallas, 1777",Common Palm Civet,biological,20e0c8d9-c445-44b5-87fc-d5bb9724e874,Asian Palm Civet
+2002474,Mammalia,Primates,Cercopithecidae,Macaca,leonina,"Blyth, 1863",Northern Pig-tailed Macaque,biological,27a7f4cd-c1d7-40a8-8aa7-15b91afbda7f,Northern Pig-tailed Macaque
+2012904,Aves,Passeriformes,Corvidae,Cissa,hypoleuca,"Salvadori & Giglioli, 1885",Indochinese Green Magpie,biological,d12f88ab-d7ce-4740-b111-5af70c352b63,Indochinese Green Magpie
+2021317,Mammalia,Rodentia,Sciuridae,,,,Sciuridae Family,biological,e4d1e892-0e4b-475a-a8ac-b5c3502e0d55,Squirrel
+2015222,Aves,Passeriformes,Muscicapidae,Anthipes,monileger,"Hodgson, 1845",White-gorgeted Flycatcher,biological,e18160cd-c904-4bb0-bf2e-c8456be9244a,White-gorgeted Flycatcher
+2009318,Aves,Coraciiformes,Alcedinidae,Lacedo,pulchella,"Horsfield, 1821",,biological,50ba8b91-e9cb-4614-84f8-2b6234856d81,Banded Kingfisher
+2006353,Aves,Columbiformes,Columbidae,Macropygia,unchall,"Wagler, 1827",Barred Cuckoo-dove,biological,9e1bf8e0-7185-4c20-b537-3c0acf16d6d7,Barred Cuckoo-dove
+2000504,Mammalia,Rodentia,Sciuridae,Callosciurus,erythraeus,"Pallas, 1779",Pallas's Squirrel,biological,8de05af8-ee42-4603-ae80-d0d4da880182,Pallas's Squirrel
+2002476,Mammalia,Primates,Cercopithecidae,Macaca,mulatta,"Zimmermann, 1780",Rhesus Monkey,biological,8bb444ba-56d5-427d-8872-5f2f44d90f39,Rhesus Macaque
+2021544,Mammalia,Artiodactyla,Suidae,Sus,scrofa scrofa,,Domestic Pig,biological,c150a21e-952d-4665-8a62-a319841c5a56,Domestic Pig
+2005224,Mammalia,Cetartiodactyla,Suidae,Sus,scrofa,"Linnaeus, 1758",Wild Boar,biological,d372cda5-a8ca-4b7b-97ed-4e4fab9c9b4b,Wild Pig
+2015156,Aves,Passeriformes,Muscicapidae,Kittacincla,malabarica,"Scopoli, 1788",White-rumped Shama,biological,aa8579dc-5b25-4347-b1ac-31668aede87b,White-rumped Shama
+2005909,Aves,Galliformes,Phasianidae,Rheinardia,ocellata,"Elliot, 1871",Crested Argus,biological,36f66669-b5db-4c71-8cad-ed6b15e0e624,Crested Argus
+2008831,Aves,Accipitriformes,Accipitridae,Spilornis,cheela,"Latham, 1790",Crested Serpent-Eagle,biological,9ce674d9-7fbc-4f5b-b7cc-4c57bd947e3f,Crested Serpent Eagle
+2003055,Mammalia,Cetartiodactyla,Cervidae,Muntiacus,truongsonensis,"Giao, Tuoc, Dung, Wikramanayake, Amato, Arctander & Mackinnon, 1997",Annamite Muntjac,biological,a0dc30c3-acf6-4d21-a8f8-3edaffd1de3b,Annamite Dark Muntjac
+2004757,Mammalia,Rodentia,Spalacidae,Rhizomys,pruinosus,"Blyth, 1851",Hoary Bamboo Rat,biological,89336aa7-efec-4e43-b0e9-c8be5bf91c76,Hoary Bamboo Rat
+2021417,Aves,Strigiformes,,,,,Owl,biological,35141382-0130-4e4d-b4ed-d7196b43eee1,Owl
+2014343,Aves,Passeriformes,Timaliidae,Pomatorhinus,ruficollis,"Hodgson, 1836",Streak-breasted Scimitar Babbler,biological,7d77768f-90ce-4274-8054-5d80d5ba4fd8,Streak-breasted Scimitar Babbler
+2000801,Mammalia,Carnivora,Viverridae,Chrotogale,owstoni,"Thomas, 1912",Owston's Civet,biological,ba799fc7-6aad-455e-87a8-1f09ad5c71e4,Owston's Civet
+2015372,Aves,Passeriformes,Muscicapidae,Ficedula,tricolor,"Hodgson, 1845",Slaty-blue Flycatcher,biological,f08c53c7-05ae-46b7-9017-f336a3e2f772,Slaty-blue Flycatcher
+2000570,Mammalia,Cetartiodactyla,Bovidae,Capricornis,sumatraensis,"Bechstein, 1799",Sumatran Serow,biological,38262151-d1fc-478f-a040-ed429e397fbe,Chinese Serow
+2003975,Mammalia,Rodentia,Sciuridae,Petaurista,philippensis,"Elliot, 1839",Indian Giant Flying Squirrel,biological,7fe7e31a-154d-424c-89f9-c46b4a34bcd4,Indian Giant Flying Squirrel
+2015248,Aves,Passeriformes,Muscicapidae,Cyornis,concretus,"Müller, 1835",White-tailed Flycatcher,biological,94a2f938-b372-407b-abbd-2bf41a70a39e,White-tailed Flycatcher
+2003056,Mammalia,Cetartiodactyla,Cervidae,Muntiacus,vaginalis,"Boddaert, 1785",Northern Red Muntjac,biological,9e90f0ba-0009-490b-b975-55829245a28e,Northern Red Muntjac
+2004303,Mammalia,Carnivora,Prionodontidae,Prionodon,pardicolor,"Hodgson, 1841",Spotted Linsang,biological,4b8f339f-7d23-470a-b490-29c7fc9f7f95,Spotted Linsang
+2010435,Aves,Passeriformes,Pittidae,Hydrornis,elliotii,"Oustalet, 1874",Bar-bellied Pitta,biological,4ee5341f-9df0-4187-b134-8ecf24fcbdb3,Bar-bellied Pitta
+2004596,Mammalia,Rodentia,Sciuridae,Ratufa,bicolor,"Sparrman, 1778",Black Giant Squirrel,biological,185c2482-9e60-47a2-ac40-81b5d78ffbbe,Black Giant Squirrel
+2003133,Mammalia,Carnivora,Mustelidae,Mustela,kathiah,"Hodgson, 1835",Yellow-bellied Weasel,biological,18df0149-eb16-4e46-a8ef-53f82bd14786,Yellow-bellied Weasel
+2021551,Reptilia,Squamata,,,,,Lizards and Snakes,biological,0af344ad-6657-42c4-85d8-03fd2106a22a,Snake
+2005586,Mammalia,Carnivora,Ursidae,Ursus,thibetanus,"G. [Baron] Cuvier, 1823",Asiatic Black Bear,biological,edcbe8f5-82e6-4af7-bed9-520915c3bbc8,Asian Black Bear
+2012903,Aves,Passeriformes,Corvidae,Cissa,chinensis,"Boddaert, 1783",Common Green Magpie,biological,64972a54-90a8-49b0-9892-1f658c650029,Common Green Magpie
+2005874,Aves,Galliformes,Phasianidae,Arborophila,rufogularis,"Blyth, 1850",Rufous-throated Partridge,biological,843ab0d1-e748-4fdd-957e-59357e99db01,Rufous-throated Partridge
+2015024,Aves,Passeriformes,Turdidae,Geokichla,citrina,"Latham, 1790",Orange-headed Thrush,biological,b1e4f65f-55d7-4074-af7d-561adb1e5524,Orange-headed Thrush
+2015354,Aves,Passeriformes,Muscicapidae,Enicurus,leschenaulti,"Vieillot, 1818",White-crowned Forktail,biological,38dc2acd-9658-4532-a4d3-d3bbed05947c,White-Crowned Forktail
+2010433,Aves,Passeriformes,Pittidae,Hydrornis,cyaneus,"Blyth, 1843",Blue Pitta,biological,1e62cb8c-cd40-40ee-9d9d-ca91a80e104a,Blue Pitta
+2012901,Aves,Passeriformes,Corvidae,Urocissa,xanthomelana,"Delacour, 1927",White-winged Magpie,biological,a5394232-1dd1-4128-be61-2a20aaac662b,White-winged Magpie
+2014075,Aves,Passeriformes,Scotocercidae,Urosphena,squameiceps,"Swinhoe, 1863",Asian Stubtail,biological,97d354a5-c265-4861-b4e3-993997e17034,Asian Stubtail
+2008922,Aves,Accipitriformes,Accipitridae,Accipiter,trivirgatus,"Temminck, 1824",Crested Goshawk,biological,49e04ec7-4f0c-4df5-8cfb-bcc106506f22,Crested Goshawk
+2015237,Aves,Passeriformes,Muscicapidae,Cyornis,sumatrensis,"Sharpe, 1879",Indochinese Blue-flycatcher,biological,7f352b7b-094e-4c32-9682-adba9966f16c,Indochinese Blue-flycatcher
+2014529,Aves,Passeriformes,Leiotrichidae,Garrulax,konkakinhensis,"Eames & Eames, 2001",Chestnut-eared Laughingthrush,biological,22107253-73e0-4474-b982-b970fffcced0,Chestnut-eared Laughingthrush
+2014579,Aves,Passeriformes,Leiotrichidae,Trochalopteron,milnei,"David, 1874",Red-tailed Laughingthrush,biological,008d8de3-9cbc-449a-ae5d-80c1dea7b4c8,Red-tailed Laughingthrush
+2014584,Aves,Passeriformes,Leiotrichidae,Trochalopteron,ngoclinhense,"Eames, Le Trong Trai & Nguyen Cu, 1999",Golden-winged Laughingthrush,biological,7819bf4d-b6c1-4b72-bda8-d4e30b2b4ba4,Golden-winged Laughingthrush
+2015063,Aves,Passeriformes,Turdidae,Turdus,mandarinus,"Bonaparte, 1850",Chinese Blackbird,biological,92b7d46b-43a4-4938-a9f8-65a494f5bdc3,Chinese Blackbird
+2000207,Mammalia,Carnivora,Mustelidae,Aonyx,cinereus,"Illiger, 1815",Asian Small-clawed Otter,biological,132aae49-dd26-4f0d-98e8-bcb5f2f8449b,Asian Small-clawed Otter
+2014432,Aves,Passeriformes,Pellorneidae,Trichastoma,tickelli,"Blyth, 1859",Buff-breasted Babbler,biological,bad6ab4c-cedb-4cf9-8a78-d6e6d20c97d9,Buff-breasted Babbler
+2008529,Aves,Strigiformes,Tytonidae,Phodilus,badius,"Horsfield, 1821",Oriental Bay Owl,biological,b4f26318-22be-4bdf-b4a8-b207c0ad90ef,Oriental Bay Owl
+2020989,Mammalia,Primates,Cercopithecidae,Macaca,,,Macaca Species,biological,bc0178de-d331-4a6e-84d7-f6e8d55b966d,Macaque
+2021108,Mammalia,,,,,,Mammal,biological,f2d233e3-80e3-433d-9687-e29ecc7a467a,Mammal
+2014989,Aves,Passeriformes,Turdidae,Zoothera,dauma,"Latham, 1790",,biological,90c08738-55d1-40d1-824c-bb2d3b973259,Scaly Thrush
+2014342,Aves,Passeriformes,Timaliidae,Pomatorhinus,ferruginosus,"Blyth, 1845",Coral-billed Scimitar Babbler,biological,adbc0b61-32eb-4b23-973e-200006707a3a,Coral-billed Scimitar Babbler
+2021251,Mammalia,Rodentia,Muridae,,,,Muridae Family,biological,9880b662-dc21-453b-aa2f-dd97338f623b,Maxomys
+2004807,Mammalia,Cetartiodactyla,Cervidae,Rusa,unicolor,"Kerr, 1792",Sambar,biological,96d478d5-30c4-4857-81de-9ac46d132800,Sambar
+2007513,Aves,Gruiformes,Rallidae,Rallina,eurizonoides,"Lafresnaye, 1845",Slaty-legged Crake,biological,b602ff8a-1870-4633-90f3-51846594950a,Slaty-legged Crake
+2005618,Mammalia,Carnivora,Viverridae,Viverricula,indica,"É. Geoffroy Saint-Hilaire, 1803",Small Indian Civet,biological,f68b2a88-9655-499b-b3c3-f9825ed3ba2a,Small Indian Civet
+2006035,Aves,Galliformes,Phasianidae,Lophura,diardi,"Bonaparte, 1856",Siamese Fireback,biological,6338d4e9-2ffe-4f75-aaef-22334f5d091a,Siamese Fireback
+2015149,Aves,Passeriformes,Muscicapidae,Copsychus,saularis,"Linnaeus, 1758",Oriental Magpie-Robin,biological,42e0edc2-eeff-4ed9-8841-adc10ab70df7,Oriental Magpie Robin
+2002130,Mammalia,Rodentia,Hystricidae,Hystrix,brachyura,"Linnaeus, 1758",Malayan Porcupine,biological,e8490543-5bea-46a7-a326-a02142d2e6e1,Malayan Porcupine
+2006000,Aves,Galliformes,Phasianidae,Gallus,gallus,"Linnaeus, 1758",Red Junglefowl,biological,89851bea-765b-431a-bb03-6f821931ebdc,Red Junglefowl
+2021550,Reptilia,,,,,,Reptile,biological,739a105e-d883-4ff8-9282-7ec44018e6a0,Reptile
+2018237,Mammalia,Cetartiodactyla,Cervidae,Muntiacus,,,Muntiacus Species,biological,a04c522f-8ca1-4c09-85b5-a0f29b8466a8,Muntjac
+2009725,Aves,Piciformes,Picidae,Picus,rabieri,"Oustalet, 1898",Red-collared Woodpecker,biological,6cd3d89b-83db-4627-b837-ee65c61a010f,Red-collared Woodpecker
+2008774,Aves,Strigiformes,Strigidae,Ketupa,zeylonensis,"Gmelin, 1788",Brown Fish-owl,biological,a7354762-3586-4980-9519-c9f72979f37e,Brown Fish-owl
+2021570,Reptilia,Squamata,Varanidae,Varanus,salvator,,Common Water Monitor,biological,bf821325-fbf8-4b48-a437-4c238ad07f90,Asian Water Monitor
+2015321,Aves,Passeriformes,Muscicapidae,Larvivora,cyane,"Pallas, 1776",Siberian Blue Robin,biological,32c2f24a-d0f7-4a83-a5ef-79d4d015c6e9,Siberian Blue Robin
+2015322,Aves,Passeriformes,Muscicapidae,Larvivora,sibilans,"Swinhoe, 1863",Rufous-tailed Robin,biological,899cca7c-ee61-4253-8730-4a30cc1f6b5f,Rufous-tailed Robin
+2015325,Aves,Passeriformes,Muscicapidae,Larvivora,akahige,"Temminck, 1835",,biological,c9a4cf4d-1807-40a2-8c49-26e1cc6ed4a9,Japanese Robin
+2002102,Mammalia,Rodentia,Sciuridae,Hylopetes,alboniger,"Hodgson, 1836",African Linsang,biological,84980ca0-3cb4-49eb-ac0c-550eaed40a66,Particolored Flying Squirrel
+2015207,Aves,Passeriformes,Muscicapidae,Niltava,macgrigoriae,"Burton, 1836",Small Niltava,biological,cf14f352-c00f-4bbb-a3f0-78278301f347,Small Niltava
+2021371,Mammalia,Eulipotyphla,Soricidae,,,,Soricidae Family,biological,26a96746-25c9-406e-b3a1-1658f81ae0af,Shrew
+2021559,Insecta,Lepidoptera,,,,,Butterflies and Moths,biological,4a7126ec-2b0b-426d-bafd-356219eb487a,Butterfly
+2014096,Aves,Passeriformes,Scotocercidae,Horornis,fortipes,"Hodgson, 1845",,biological,5ce94158-673d-4f00-affb-6dd980422ac0,Brownish-flanked Bush Warbler
+2012716,Aves,Passeriformes,Dicruridae,Dicrurus,aeneus,"Vieillot, 1817",Bronzed Drongo,biological,2b9cf91e-845f-4143-97b0-0a176bd4330c,Bronzed Drongo
+2015309,Aves,Passeriformes,Muscicapidae,Brachypteryx,leucophris,"Temminck, 1827",Lesser Shortwing,biological,a9e3b266-50dc-4759-80ca-8c7c972ee4f4,Lesser Shortwing
+2008628,Aves,Strigiformes,Strigidae,Athene,brama,"Temminck, 1821",Spotted Owlet,biological,cd911688-5787-4b02-9bca-6fcb707ca78c,Spotted Owlet
+2015337,Aves,Passeriformes,Muscicapidae,Myiomela,leucura,"Hodgson, 1845",White-tailed Blue Robin,biological,cdffb0c9-a000-4522-bd27-4e017247a6cd,White-tailed Robin
+2008296,Aves,Charadriiformes,Scolopacidae,Scolopax,rusticola,"Linnaeus, 1758",Eurasian Woodcock,biological,b77d7237-243a-490e-b547-90e52983c23a,Eurasian Woodcock
+2015020,Aves,Passeriformes,Turdidae,Geokichla,sibirica,"Pallas, 1776",Siberian Thrush,biological,c8ec11b2-2bf1-4466-b312-cb43cf20a1ee,Siberian Thrush
+2002543,Mammalia,Pholidota,Manidae,Manis,javanica,"Desmarest, 1822",Sunda Pangolin,biological,6cc43c63-2730-4495-8d1e-3c3b1c1b9793,Sunda Pangolin
+2021317,Mammalia,Rodentia,Sciuridae,,,,Sciuridae Family,biological,e4d1e892-0e4b-475a-a8ac-b5c3502e0d55,Flying squirrel
+2005878,Aves,Galliformes,Phasianidae,Arborophila,brunneopectus,"Blyth, 1855",Bar-backed Partridge,biological,60ccc8d1-1b22-4f51-8002-884d9140de0f,Bar-backed Partridge
+2014445,Aves,Passeriformes,Pellorneidae,Turdinus,brevicaudatus,"Blyth, 1855",Streaked Wren-babbler,biological,169ed977-68c0-4685-a5e9-9ddbc90b6997,Streaked Wren Babbler
+2015100,Aves,Passeriformes,Turdidae,Turdus,cardis,"Temminck, 1831",Japanese Thrush,biological,b9d69b11-b471-42ab-b04f-94137608b9df,Japanese Thrush
+2005483,Mammalia,Cetartiodactyla,Tragulidae,Tragulus,kanchil,"Raffles, 1821",Lesser Oriental Chevrotain,biological,205a307a-abf2-4a12-9018-5c044b20e97b,Lesser Mouse-deer
+2017718,Mammalia,Cetartiodactyla,Bovidae,Bubalus,,,Bubalus Species,biological,6367120b-bc6a-4331-8a9f-9a61b88017c6,Domestic Buffalo
+2012903,Aves,Passeriformes,Corvidae,Cissa,chinensis,"Boddaert, 1783",Common Green Magpie,biological,64972a54-90a8-49b0-9892-1f658c650029,Green magpie
+2014074,Aves,Passeriformes,Scotocercidae,Hemitesia,pallidipes,"Blanford, 1872",Pale-footed Bush-warbler,biological,06117775-606d-48a6-8203-0759588720f5,Pale-footed Bush Warbler
+2012731,Aves,Passeriformes,Dicruridae,Dicrurus,paradiseus,"Linnaeus, 1766",,biological,472c9282-6bc2-4252-8021-d446706a432f,Greater Racket-tailed Drongo
+2015104,Aves,Passeriformes,Turdidae,Turdus,obscurus,"Gmelin, 1789",Eyebrowed Thrush,biological,9a995cba-e6a6-4297-b098-233d4527d49f,Eyebrowed Thrush
+2005301,Mammalia,Rodentia,Sciuridae,Tamiops,maritimus,"Bonhote, 1900",Maritime Striped Squirrel,biological,d17ee71d-ac39-44cf-b189-5eabd120b26f,Eastern Striped Squirrel
+2012731,Aves,Passeriformes,Dicruridae,Dicrurus,paradiseus,"Linnaeus, 1766",,biological,472c9282-6bc2-4252-8021-d446706a432f,Greater Racquet-tailed Drongo
+2008859,Aves,Accipitriformes,Accipitridae,Nisaetus,nipalensis,"Hodgson, 1836",Mountain Hawk-eagle,biological,3be3f820-1462-4a04-ae0d-bce98d6cf08b,Mountain Hawk-eagle
+2013884,Aves,Passeriformes,Pycnonotidae,Alophoixus,pallidus,"Swinhoe, 1870",,biological,ab35e3b6-4a0d-484c-b59f-82e1308ae43a,Puff-throated Bulbul
+2008003,Aves,Pelecaniformes,Ardeidae,Gorsachius,melanolophus,"Raffles, 1822",Malay Night-heron,biological,cddc01b8-7f0c-407d-9d28-abc0203095dc,Malayan Night Heron
+2015400,Aves,Passeriformes,Muscicapidae,Ficedula,hyperythra,"Blyth, 1843",,biological,fd99749f-e5fd-4a8b-8787-823cfedb8c48,Snowy-browed Flycatcher
+2004518,Mammalia,Primates,Cercopithecidae,Pygathrix,cinerea,"Nadler, 1997",Grey-shanked Douc Langur,biological,60ea9d1f-5448-4ec6-ba03-550db94e54e0,Grey-shanked Douc Langur
+2015334,Aves,Passeriformes,Muscicapidae,Calliope,calliope,"Pallas, 1776",Siberian Rubythroat,biological,5880c476-0e8f-41c1-84b5-af860dfadcce,Siberian Rubythroat
+2015253,Aves,Passeriformes,Muscicapidae,Cyornis,tickelliae,"Blyth, 1843",Tickell's Blue-Flycatcher,biological,144bac52-6be0-46ba-9b2d-7f6a67acf5b5,Tickell's Blue Flycatcher

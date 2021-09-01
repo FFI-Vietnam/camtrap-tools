@@ -1,0 +1,37 @@
+Wildlife Insights Images Download Tutorial
+------------------------------------------
+
+
+Requirements
+------------
+
+A Google Cloud Platform account.
+
+
+
+Using the browser
+-----------------
+
+You can use your browser to move around the bucket, filter and download files.
+
+Login with your Google Cloud Platform account in the browser, once you are logged in, you can browse the bucket through
+the project's bucket url: https://console.cloud.google.com/storage/browser/{ PROJECT } where { PROJECT } is the bucket
+name of the project, you can find it in images.csv file under location column, for example, given the following value:
+gs://camera_trap_project__main/deployment/2019497/37f3aa87-a36e-4ca4-8fe6-ceca57977bf6.JPG
+the name of the the bucket is the string contained between 'gs://' and '/deployment/': camera_trap_project__main so, for this example,
+the full bucket url is: https://console.cloud.google.com/storage/browser/camera_trap_project__main
+
+
+
+Using gsutil software
+---------------------
+
+gsutil is a Python application that lets you access Cloud Storage from the command line. Is the best option for batch downloads.
+
+gsutil is easy to install, follow the Google Cloud Platform instructions: https://cloud.google.com/storage/docs/gsutil_install
+
+Below some examples, replace the values between the brackets with your project values:
+
+    - Download all images of the project to the current directory: gsutil -m cp -r  gs://{ PROJECT } .
+    - Download all images of one specific deployment to the current directory: gsutil -m cp -r  gs://{ PROJECT }/deployment/{ DEPLOYMENT_ID } .
+    - Download a single image, you can find image url in images.csv file under the column location:  gsutil -m cp -r  gs://{ PROJECT }/deployment/{ DEPLOYMENT_ID }/{ IMAGE } .
